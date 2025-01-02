@@ -4,7 +4,7 @@ A Python tool to check endpoint connectivity across multiple DNS providers. This
 
 ## Features
 
-- Test endpoints against 5 major DNS providers
+- Test endpoints against 5 major DNS providers (Cloudflare, Quad9, Google, OpenDNS, and AdGuard)
 - Check both DNS resolution and HTTP/HTTPS connectivity
 - Visual output with clear success/failure indicators
 - Support for both domain names and IP addresses
